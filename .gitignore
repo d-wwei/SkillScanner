@@ -1,0 +1,9 @@
+# Research materials (not part of the distributed skill)
+materials/
+
+# OS files
+.DS_Store
+
+# Apex forge working files
+.apex/
+docs/
